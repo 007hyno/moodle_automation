@@ -1,4 +1,4 @@
-# moodle_automation
+# Moodle_automation
 <b>Moodle automation</b> is a python Programme to open, login and visit respected subjects in the Moodle.
 ## Requirement
 - Python install in the system
