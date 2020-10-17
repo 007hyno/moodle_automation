@@ -7,7 +7,7 @@ def start():
     login = driver.find_element_by_xpath('//*[@id="page-wrapper"]/nav/ul[2]/li[3]/div/span/a')
     login.send_keys(Keys.RETURN)
     name = 'username'# your user name 
-    pas = 'Paras@1234'# your password
+    pas = 'password'# your password
     name_feild = driver.find_element_by_name('username')
     name_feild.send_keys(name)
     password_feild = driver.find_element_by_name('password')
