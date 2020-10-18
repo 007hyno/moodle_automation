@@ -6,5 +6,6 @@
 - Python install in the system
 - pip install selenium 
 ## How to use-
+- Edit required Feilds in python programme
 - Run the programme and enjoy
 
