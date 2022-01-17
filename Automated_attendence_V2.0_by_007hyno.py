@@ -5,8 +5,8 @@ from selenium.webdriver.common.by import By
 import time  
 driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('http://45.116.207.96/moodle/login/index.php') # opens the following link in chrome browser in safe mode
-name = '21711117'# your user name 
-pas = 'Paras@5588'# your password
+name = '21711117'# your user name here
+pas = 'Paras@5588'# your password here
 #Your subject links as List elements
 subjects=["http://45.116.207.96/moodle/mod/attendance/view.php?id=3","http://45.116.207.96/moodle/mod/attendance/view.php?id=17","http://45.116.207.96/moodle/mod/attendance/view.php?id=77","http://45.116.207.96/moodle/mod/attendance/view.php?id=592"] 
 # Your are all done🙏🏼 
