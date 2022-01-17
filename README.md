@@ -1,6 +1,5 @@
 ## Are you bored of login again and again to your moodle for academic attendance every single day?
-## lets leave repetitive work to whom it belong 
-## BOTS!!
+## Lets leave repetitive work to whom it belong - BOTS!!🤖
 # Automated_attendence_V2.O
 <b>Automated_attendence_V2.0_by_007hyno.py</b> is a python Program which automate, login and attendance of respected subjects in the Moodle.
 ## Requirement
