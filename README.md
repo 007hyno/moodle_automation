@@ -6,7 +6,7 @@
 ## Requirement
 - Python should be install in your system
 - Run following command in your CMD (command prompt)-
--         pip install selenium 
+         pip install selenium 
  ![image](https://user-images.githubusercontent.com/68294675/149729109-0c042805-2fe0-475e-acdf-6c403379c324.png)
 
 ## How to use-
