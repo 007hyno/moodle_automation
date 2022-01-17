@@ -1,7 +1,7 @@
 # Q- Are you bored of login again and again to Moodle.com for academic attendance every single day?
 ## Lets leave repetitive work to whom it belong - BOTS!!🤖
 # Automated_attendence_V2.O
-<b>Automated_attendence_V2.0_by_007hyno.py</b> is a python Program which automate, login and attendance of respected subjects in the Moodle.
+<b>Automated_attendence_V2.0_by_007hyno.py</b> is a python Program which automates login and attendance of respected subjects in the Moodle.
 ## Requirement
 - Python should be install in your system
 - Run following command in your CMD (command prompt)-
