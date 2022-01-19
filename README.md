@@ -4,8 +4,10 @@
 <b>Automated_attendence_V2.0_by_007hyno.py</b> is a python Program which automate, login and attendance of respected subjects in the Moodle.
 ## Requirement
 - Python should be install in your system
-- Run following command in your CMD (command prompt)-
+- Chrome Browser should be install in your system (Version 97.0.4692.71 or above)
+- Run following commands in your CMD (command prompt)-
 -         pip install selenium 
+-         pip install webdriver-manager 
  ![image](https://user-images.githubusercontent.com/68294675/149729109-0c042805-2fe0-475e-acdf-6c403379c324.png)
 
 ## How to use-
