@@ -12,7 +12,7 @@ if(week!="Sunday"):
     name = 'Username'# your user name here
     pas = 'Password'# your password here
     #Your subject links as List elements
-    subjects=["http://45.116.207.96/moodle/mod/attendance/view.php?id=3","http://45.116.207.96/moodle/mod/attendance/view.php?id=17","http://45.116.207.96/moodle/mod/attendance/view.php?id=77","http://45.116.207.96/moodle/mod/attendance/view.php?id=592"] 
+    subjects=["http://45.116.207.96/moodle/mod/attendance/view.php?id=3","http://45.116.207.96/moodle/mod/attendance/view.php?id=17","http://45.116.207.96/moodle/mod/attendance/view.php?id=77","http://45.116.207.96/moodle/mod/attendance/view.php?id=592","http://45.116.207.96/moodle/mod/attendance/view.php?id=54","http://45.116.207.96/moodle/mod/attendance/view.php?id=33"] 
     # Your are all done🙏🏼 
     # Have fun 💜
     name_feild = driver.find_element_by_xpath('//*[@id="username"]')
